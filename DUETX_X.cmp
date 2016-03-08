@@ -1,0 +1,318 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 27.11.2015 10:11:49
+
+BeginCmp
+TimeStamp = /55DCA90C;
+Reference = 3V3_OUT1;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC54EA;
+Reference = 5V_OUT1;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC54A6;
+Reference = 12V_IN1;
+ValeurCmp = CONN_01X02;
+IdModule  = sirona:mkds_1,5-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC5C5E;
+Reference = C1;
+ValeurCmp = CP2;
+IdModule  = Capacitors_SMD:c_elec_6.3x5.7;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC5FF0;
+Reference = C2;
+ValeurCmp = CP2;
+IdModule  = Capacitors_SMD:c_elec_6.3x5.7;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC6230;
+Reference = C3;
+ValeurCmp = CP2;
+IdModule  = Capacitors_SMD:c_elec_6.3x5.7;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC62A1;
+Reference = C4;
+ValeurCmp = CP2;
+IdModule  = Capacitors_SMD:c_elec_6.3x5.7;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC4ADA;
+Reference = EXP_IN1;
+ValeurCmp = CONN_02X25;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x25;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC50C9;
+Reference = MS_E1;
+ValeurCmp = CONN_02X03;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC5F9A;
+Reference = MS_E2;
+ValeurCmp = CONN_02X03;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC61DA;
+Reference = MS_E3;
+ValeurCmp = CONN_02X03;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC624B;
+Reference = MS_E4;
+ValeurCmp = CONN_02X03;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DDACF4;
+Reference = P1;
+ValeurCmp = CONN_01X10;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x10;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DDC97F;
+Reference = P2;
+ValeurCmp = CONN_01X03;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DCB09D;
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DCAF46;
+Reference = R2;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DCAE9B;
+Reference = R3;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DCAC39;
+Reference = R4;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC585B;
+Reference = R5;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC58B0;
+Reference = R6;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC5FCD;
+Reference = R7;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC5FD3;
+Reference = R8;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC620D;
+Reference = R9;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC6213;
+Reference = R10;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC627E;
+Reference = R11;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC6284;
+Reference = R12;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DDD5AF;
+Reference = R13;
+ValeurCmp = 2K7;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DDE097;
+Reference = R14;
+ValeurCmp = 1K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5658339F;
+Reference = R15;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /56583174;
+Reference = R16;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /56582DF7;
+Reference = R17;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5658246F;
+Reference = R18;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC526F;
+Reference = STEP_E1;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC4E0A;
+Reference = STEP_E1_a1;
+ValeurCmp = CONN_01X08;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC4E10;
+Reference = STEP_E1_b1;
+ValeurCmp = CONN_01X08;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC5FA0;
+Reference = STEP_E2;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC5F8C;
+Reference = STEP_E2_a1;
+ValeurCmp = CONN_01X08;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC5F92;
+Reference = STEP_E2_b1;
+ValeurCmp = CONN_01X08;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC61E0;
+Reference = STEP_E3;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC61CC;
+Reference = STEP_E3_a1;
+ValeurCmp = CONN_01X08;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC61D2;
+Reference = STEP_E3_b1;
+ValeurCmp = CONN_01X08;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC6251;
+Reference = STEP_E4;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC623D;
+Reference = STEP_E4_a1;
+ValeurCmp = CONN_01X08;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC6243;
+Reference = STEP_E4_b1;
+ValeurCmp = CONN_01X08;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DDA516;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = sirona:TACT_switch;
+EndCmp
+
+EndListe
